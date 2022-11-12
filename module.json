@@ -1,0 +1,40 @@
+{
+    "name": "lomeo-dnd5e-phantom",
+    "title": "Перевод DnD5e от PHantom",
+    "description": "Простой модуль, который добавляет библиотеки с материалами в переводе от PHantom.",
+    "version": "0.1.0",
+    "author": "Me",
+    "authors": [
+        {
+            "name": "Lomeo",
+            "discord": "Lomeo#0446",
+            "url": "https://boosty.to/lomeo"
+        }
+    ],
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": 9,
+        "verified": "10.286"
+    },
+    "packs": [
+        {
+            "name": "predmety-phantom",
+            "label": "Предметы [Phantom]",
+            "path": "./packs/predmety-phantom.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "zaklinaniya-srd-phantom",
+            "label": "Заклинания SRD [Phantom]",
+            "path": "./packs/zaklinaniya-srd-phantom.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "dnd5e"
+        }
+    ],
+    "manifest": "https://github.com/Lomniko/FoundryVTT-DnD5e-PHantom/blob/master/module.json",
+    "download": "https://github.com/Lomniko/FoundryVTT-DnD5e-PHantom/archive/refs/heads/master.zip"
+}

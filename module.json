@@ -19,20 +19,59 @@
     },
     "packs": [
         {
-            "name": "predmety-phantom",
             "label": "Предметы [Phantom]",
-            "path": "./packs/predmety-phantom.db",
-            "entity": "Item",
             "type": "Item",
-            "system": "dnd5e"
+            "name": "predmety-phantom",
+            "path": "/packs/predmety-phantom.db",
+            "system": "dnd5e",
+            "private": false,
+            "flags": {}
         },
         {
-            "name": "zaklinaniya-srd-phantom",
             "label": "Заклинания SRD [Phantom]",
-            "path": "./packs/zaklinaniya-srd-phantom.db",
-            "entity": "Item",
             "type": "Item",
-            "system": "dnd5e"
+            "name": "zaklinaniya-srd-phantom",
+            "path": "packs/zaklinaniya-srd-phantom.db",
+            "system": "dnd5e",
+            "private": false,
+            "flags": {}
+        },
+        {
+            "label": "Умения [Phantom]",
+            "type": "Item",
+            "name": "umeniya-phantom",
+            "path": "packs/umeniya-phantom.db",
+            "system": "dnd5e",
+            "private": false,
+            "flags": {}
+        },
+        {
+            "label": "Классы [Phantom]",
+            "type": "Item",
+            "name": "klassy-phantom",
+            "path": "packs/klassy-phantom.db",
+            "system": "dnd5e",
+            "private": false,
+            "flags": {}
+        },
+        {
+            "label": "Архетипы [Phantom]",
+            "type": "Item",
+            "name": "arhetipy-phantom",
+            "path": "packs/arhetipy-phantom.db",
+            "system": "dnd5e",
+            "private": false,
+            "flags": {}
+        },
+        {
+            "label": "Таблицы [Phantom]",
+            "type": "RollTable",
+            "name": "tablicy-phantom",
+            "path": "packs/tablicy-phantom.db",
+            "system": "dnd5e",
+            "private": false,
+            "flags": {},
+            "package": "world"
         }
     ],
     "manifest": "https://raw.githubusercontent.com/Lomniko/FoundryVTT-DnD5e-PHantom/master/module.json",

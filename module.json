@@ -2,7 +2,7 @@
     "id": "lomeo-dnd5e-phantom",
     "title": "Перевод DnD5e от PHantom",
     "description": "Простой модуль, который добавляет библиотеки с материалами в переводе от PHantom.",
-    "version": "0.1.1",
+    "version": "0.1.3",
     "author": "Me",
     "authors": [
         {
@@ -28,7 +28,7 @@
             "flags": {}
         },
         {
-            "label": "Заклинания SRD [Phantom]",
+            "label": "Заклинания [Phantom]",
             "type": "Item",
             "name": "zaklinaniya-srd-phantom",
             "path": "packs/zaklinaniya-srd-phantom.db",

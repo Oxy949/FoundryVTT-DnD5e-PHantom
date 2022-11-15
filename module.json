@@ -2,7 +2,7 @@
     "id": "lomeo-dnd5e-phantom",
     "title": "Перевод DnD5e от PHantom",
     "description": "Простой модуль, который добавляет библиотеки с материалами в переводе от PHantom.",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "author": "Me",
     "authors": [
         {
@@ -15,7 +15,7 @@
     "compatibleCoreVersion": "9",
     "compatibility": {
         "minimum": 9,
-        "verified": "10.286"
+        "verified": "10.288"
     },
     "packs": [
         {

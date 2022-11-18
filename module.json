@@ -1,8 +1,8 @@
 {
     "id": "lomeo-dnd5e-phantom",
-    "title": "Перевод DnD5e от PHantom",
+    "title": "Перевод DnD5e от PHantom и Dungeons_ru",
     "description": "Простой модуль, который добавляет библиотеки с материалами в переводе от PHantom.",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "author": "Me",
     "authors": [
         {

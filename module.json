@@ -2,7 +2,7 @@
     "id": "lomeo-dnd5e-phantom",
     "title": "Перевод DnD5e от PHantom и Dungeons_ru",
     "description": "Простой модуль, который добавляет библиотеки с материалами в переводе от PHantom.",
-    "version": "0.2.10",
+    "version": "0.3.0",
     "author": "Me",
     "authors": [
         {
@@ -86,6 +86,15 @@
             "type": "Item",
             "name": "predystorii-phantom",
             "path": "packs/predystorii-phantom.db",
+            "system": "dnd5e",
+            "private": false,
+            "flags": {}
+        },
+        {
+            "label": "Бестиарий [Phantom]",
+            "type": "Actor",
+            "name": "bestiarij-phantom",
+            "path": "packs/bestiarij-phantom.db",
             "system": "dnd5e",
             "private": false,
             "flags": {}

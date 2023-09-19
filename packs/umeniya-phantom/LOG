@@ -1,5 +1,12 @@
-2023/09/12-21:00:50.523 2188 Recovering log #452
-2023/09/12-21:00:50.524 2188 Level-0 table #454: started
-2023/09/12-21:00:50.527 2188 Level-0 table #454: 25333 bytes OK
-2023/09/12-21:00:50.530 2188 Delete type=0 #452
-2023/09/12-21:00:50.530 2188 Delete type=3 #451
+2023/09/19-18:51:41.377 4dcc Recovering log #496
+2023/09/19-18:51:41.401 4dcc Level-0 table #498: started
+2023/09/19-18:51:41.433 4dcc Level-0 table #498: 1462254 bytes OK
+2023/09/19-18:51:41.439 4dcc Delete type=0 #496
+2023/09/19-18:51:41.440 4dcc Delete type=3 #495
+2023/09/19-18:52:42.110 4d04 Moved #498 to level-1 1462254 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2023/09/19-18:52:58.224 4d04 Compacting 1@1 + 1@2 files
+2023/09/19-18:52:58.259 4d04 Generated table #500@1: 966 keys, 1345431 bytes
+2023/09/19-18:52:58.259 4d04 Compacted 1@1 + 1@2 files => 1345431 bytes
+2023/09/19-18:52:58.260 4d04 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/19-18:52:58.260 4d04 Delete type=2 #492
+2023/09/19-18:52:58.263 4d04 Delete type=2 #498

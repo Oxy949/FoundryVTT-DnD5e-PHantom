@@ -1,3 +1,24 @@
-2023/10/01-21:28:43.571 39f0 Recovering log #598
-2023/10/01-21:28:43.576 39f0 Delete type=0 #598
-2023/10/01-21:28:43.576 39f0 Delete type=3 #597
+2023/10/11-12:48:54.489 40a4 Recovering log #645
+2023/10/11-12:48:54.489 40a4 Level-0 table #647: started
+2023/10/11-12:48:54.492 40a4 Level-0 table #647: 4988 bytes OK
+2023/10/11-12:48:54.498 40a4 Delete type=0 #645
+2023/10/11-12:48:54.498 40a4 Delete type=3 #643
+2023/10/11-12:51:41.503 f4c Level-0 table #650: started
+2023/10/11-12:51:41.503 f4c Level-0 table #650: 0 bytes OK
+2023/10/11-12:51:41.504 f4c Delete type=0 #648
+2023/10/11-12:51:41.505 f4c Manual compaction at level-0 from '!items!00WNpBEeMxgNUcqF' @ 72057594037927935 : 1 .. '!items.effects!hEJWwUWWlm4CjQ0P.potjmpJPeUA1U4oe' @ 0 : 0; will stop at '!items!yAteWcmunk5coKhZ' @ 661 : 1
+2023/10/11-12:51:41.505 f4c Compacting 1@0 + 1@1 files
+2023/10/11-12:51:41.508 f4c Generated table #651@0: 8 keys, 15094 bytes
+2023/10/11-12:51:41.508 f4c Compacted 1@0 + 1@1 files => 15094 bytes
+2023/10/11-12:51:41.510 f4c compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/11-12:51:41.510 f4c Delete type=2 #644
+2023/10/11-12:51:41.510 f4c Delete type=2 #647
+2023/10/11-12:51:41.515 f4c Manual compaction at level-0 from '!items!yAteWcmunk5coKhZ' @ 661 : 1 .. '!items.effects!hEJWwUWWlm4CjQ0P.potjmpJPeUA1U4oe' @ 0 : 0; will stop at (end)
+2023/10/11-12:51:41.515 f4c Manual compaction at level-1 from '!items!00WNpBEeMxgNUcqF' @ 72057594037927935 : 1 .. '!items.effects!hEJWwUWWlm4CjQ0P.potjmpJPeUA1U4oe' @ 0 : 0; will stop at '!items!yAteWcmunk5coKhZ' @ 661 : 1
+2023/10/11-12:51:41.515 f4c Compacting 1@1 + 1@2 files
+2023/10/11-12:51:41.533 f4c Generated table #652@1: 516 keys, 898172 bytes
+2023/10/11-12:51:41.533 f4c Compacted 1@1 + 1@2 files => 898172 bytes
+2023/10/11-12:51:41.534 f4c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/11-12:51:41.534 f4c Delete type=2 #642
+2023/10/11-12:51:41.536 f4c Delete type=2 #651
+2023/10/11-12:51:41.568 f4c Manual compaction at level-1 from '!items!yAteWcmunk5coKhZ' @ 661 : 1 .. '!items.effects!hEJWwUWWlm4CjQ0P.potjmpJPeUA1U4oe' @ 0 : 0; will stop at (end)

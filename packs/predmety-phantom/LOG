@@ -1,25 +1,3 @@
-2023/10/02-13:35:56.898 1090 Recovering log #603
-2023/10/02-13:35:56.898 1090 Level-0 table #605: started
-2023/10/02-13:35:56.901 1090 Level-0 table #605: 32182 bytes OK
-2023/10/02-13:35:56.904 1090 Delete type=0 #603
-2023/10/02-13:35:56.904 1090 Delete type=3 #602
-2023/10/02-13:41:44.616 2b88 Level-0 table #608: started
-2023/10/02-13:41:44.616 2b88 Level-0 table #608: 0 bytes OK
-2023/10/02-13:41:44.617 2b88 Delete type=0 #606
-2023/10/02-13:41:44.623 2b88 Manual compaction at level-0 from '!items!01NfbjsAWSXEut2E' @ 72057594037927935 : 1 .. '!items.effects!zbMH292UkLXbU8T0.Hvf4LFRT1rv8dUij' @ 0 : 0; will stop at '!items.effects!xjG4SqgGURBwYMYl.NiiYAV6wPyYM6CtL' @ 2702 : 1
-2023/10/02-13:41:44.623 2b88 Compacting 1@0 + 0@1 files
-2023/10/02-13:41:44.625 2b88 Generated table #609@0: 20 keys, 20864 bytes
-2023/10/02-13:41:44.625 2b88 Compacted 1@0 + 0@1 files => 20864 bytes
-2023/10/02-13:41:44.626 2b88 compacted to: files[ 0 1 2 0 0 0 0 ]
-2023/10/02-13:41:44.626 2b88 Delete type=2 #605
-2023/10/02-13:41:44.655 2b88 Manual compaction at level-0 from '!items.effects!xjG4SqgGURBwYMYl.NiiYAV6wPyYM6CtL' @ 2702 : 1 .. '!items.effects!zbMH292UkLXbU8T0.Hvf4LFRT1rv8dUij' @ 0 : 0; will stop at (end)
-2023/10/02-13:41:44.674 2b88 Manual compaction at level-1 from '!items!01NfbjsAWSXEut2E' @ 72057594037927935 : 1 .. '!items.effects!zbMH292UkLXbU8T0.Hvf4LFRT1rv8dUij' @ 0 : 0; will stop at '!items.effects!xjG4SqgGURBwYMYl.NiiYAV6wPyYM6CtL' @ 2702 : 1
-2023/10/02-13:41:44.674 2b88 Compacting 1@1 + 2@2 files
-2023/10/02-13:41:44.717 2b88 Generated table #610@1: 1166 keys, 2120673 bytes
-2023/10/02-13:41:44.748 2b88 Generated table #611@1: 1222 keys, 1565837 bytes
-2023/10/02-13:41:44.748 2b88 Compacted 1@1 + 2@2 files => 3686510 bytes
-2023/10/02-13:41:44.749 2b88 compacted to: files[ 0 0 2 0 0 0 0 ]
-2023/10/02-13:41:44.749 2b88 Delete type=2 #596
-2023/10/02-13:41:44.752 2b88 Delete type=2 #597
-2023/10/02-13:41:44.754 2b88 Delete type=2 #609
-2023/10/02-13:41:44.790 2b88 Manual compaction at level-1 from '!items.effects!xjG4SqgGURBwYMYl.NiiYAV6wPyYM6CtL' @ 2702 : 1 .. '!items.effects!zbMH292UkLXbU8T0.Hvf4LFRT1rv8dUij' @ 0 : 0; will stop at (end)
+2023/10/11-12:51:45.517 2168 Recovering log #646
+2023/10/11-12:51:45.520 2168 Delete type=0 #646
+2023/10/11-12:51:45.520 2168 Delete type=3 #644

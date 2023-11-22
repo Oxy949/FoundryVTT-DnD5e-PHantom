@@ -1,23 +1,8 @@
-2023/10/11-12:48:54.539 34a4 Recovering log #683
-2023/10/11-12:48:54.540 34a4 Level-0 table #686: started
-2023/10/11-12:48:54.545 34a4 Level-0 table #686: 96251 bytes OK
-2023/10/11-12:48:54.550 34a4 Delete type=0 #683
-2023/10/11-12:48:54.550 34a4 Delete type=3 #681
-2023/10/11-12:51:41.504 f4c Level-0 table #689: started
-2023/10/11-12:51:41.504 f4c Level-0 table #689: 0 bytes OK
-2023/10/11-12:51:41.505 f4c Delete type=0 #687
-2023/10/11-12:51:41.510 f4c Manual compaction at level-0 from '!items!00ElJbyJuWWCLAB1' @ 72057594037927935 : 1 .. '!items.effects!zMzqrriqUv59uPHa.7xnIOiqA0MLKmHSE' @ 0 : 0; will stop at '!items!ulbLIkfLtf5L2AS8' @ 8739 : 1
-2023/10/11-12:51:41.510 f4c Compacting 1@0 + 0@1 files
-2023/10/11-12:51:41.513 f4c Generated table #690@0: 20 keys, 25821 bytes
-2023/10/11-12:51:41.513 f4c Compacted 1@0 + 0@1 files => 25821 bytes
-2023/10/11-12:51:41.515 f4c compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/10/11-12:51:41.515 f4c Delete type=2 #686
-2023/10/11-12:51:41.515 f4c Manual compaction at level-0 from '!items!ulbLIkfLtf5L2AS8' @ 8739 : 1 .. '!items.effects!zMzqrriqUv59uPHa.7xnIOiqA0MLKmHSE' @ 0 : 0; will stop at (end)
-2023/10/11-12:51:41.537 f4c Manual compaction at level-1 from '!items!00ElJbyJuWWCLAB1' @ 72057594037927935 : 1 .. '!items.effects!zMzqrriqUv59uPHa.7xnIOiqA0MLKmHSE' @ 0 : 0; will stop at '!items!ulbLIkfLtf5L2AS8' @ 8756 : 1
-2023/10/11-12:51:41.537 f4c Compacting 1@1 + 1@2 files
-2023/10/11-12:51:41.563 f4c Generated table #691@1: 1010 keys, 1427924 bytes
-2023/10/11-12:51:41.563 f4c Compacted 1@1 + 1@2 files => 1427924 bytes
-2023/10/11-12:51:41.564 f4c compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/10/11-12:51:41.564 f4c Delete type=2 #684
-2023/10/11-12:51:41.566 f4c Delete type=2 #690
-2023/10/11-12:51:41.568 f4c Manual compaction at level-1 from '!items!ulbLIkfLtf5L2AS8' @ 8756 : 1 .. '!items.effects!zMzqrriqUv59uPHa.7xnIOiqA0MLKmHSE' @ 0 : 0; will stop at (end)
+2023/11/22-20:58:15.109 2750 Recovering log #952
+2023/11/22-20:58:15.112 2750 Delete type=0 #952
+2023/11/22-20:58:15.112 2750 Delete type=3 #950
+2023/11/22-20:58:29.345 3274 Level-0 table #957: started
+2023/11/22-20:58:29.345 3274 Level-0 table #957: 0 bytes OK
+2023/11/22-20:58:29.346 3274 Delete type=0 #955
+2023/11/22-20:58:29.350 3274 Manual compaction at level-0 from '!items!00ElJbyJuWWCLAB1' @ 72057594037927935 : 1 .. '!items.effects!zMzqrriqUv59uPHa.7xnIOiqA0MLKmHSE' @ 0 : 0; will stop at (end)
+2023/11/22-20:58:29.350 3274 Manual compaction at level-1 from '!items!00ElJbyJuWWCLAB1' @ 72057594037927935 : 1 .. '!items.effects!zMzqrriqUv59uPHa.7xnIOiqA0MLKmHSE' @ 0 : 0; will stop at (end)

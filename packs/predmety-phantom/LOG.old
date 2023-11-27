@@ -1,8 +1,3 @@
-2023/11/27-17:27:48.787 38fc Recovering log #926
-2023/11/27-17:27:48.789 38fc Delete type=0 #926
-2023/11/27-17:27:48.790 38fc Delete type=3 #925
-2023/11/27-17:28:13.653 2d58 Level-0 table #930: started
-2023/11/27-17:28:13.653 2d58 Level-0 table #930: 0 bytes OK
-2023/11/27-17:28:13.654 2d58 Delete type=0 #928
-2023/11/27-17:28:13.654 2d58 Manual compaction at level-0 from '!items!01NfbjsAWSXEut2E' @ 72057594037927935 : 1 .. '!items.effects!zbMH292UkLXbU8T0.Hvf4LFRT1rv8dUij' @ 0 : 0; will stop at (end)
-2023/11/27-17:28:13.654 2d58 Manual compaction at level-1 from '!items!01NfbjsAWSXEut2E' @ 72057594037927935 : 1 .. '!items.effects!zbMH292UkLXbU8T0.Hvf4LFRT1rv8dUij' @ 0 : 0; will stop at (end)
+2023/11/27-17:28:17.489 3260 Recovering log #929
+2023/11/27-17:28:17.491 3260 Delete type=0 #929
+2023/11/27-17:28:17.491 3260 Delete type=3 #927

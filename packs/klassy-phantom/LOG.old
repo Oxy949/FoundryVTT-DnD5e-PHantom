@@ -1,8 +1,23 @@
-2023/11/22-20:58:15.126 2750 Recovering log #937
-2023/11/22-20:58:15.129 2750 Delete type=0 #937
-2023/11/22-20:58:15.129 2750 Delete type=3 #935
-2023/11/22-20:58:29.347 3274 Level-0 table #942: started
-2023/11/22-20:58:29.347 3274 Level-0 table #942: 0 bytes OK
-2023/11/22-20:58:29.348 3274 Delete type=0 #940
-2023/11/22-20:58:29.350 3274 Manual compaction at level-0 from '!items!4eVF75oaMjbuoI69' @ 72057594037927935 : 1 .. '!items!y39YV2mfGLMmBKIL' @ 0 : 0; will stop at (end)
-2023/11/22-20:58:29.350 3274 Manual compaction at level-1 from '!items!4eVF75oaMjbuoI69' @ 72057594037927935 : 1 .. '!items!y39YV2mfGLMmBKIL' @ 0 : 0; will stop at (end)
+2023/11/27-17:27:48.969 4a58 Recovering log #970
+2023/11/27-17:27:48.974 4a58 Level-0 table #972: started
+2023/11/27-17:27:48.980 4a58 Level-0 table #972: 200338 bytes OK
+2023/11/27-17:27:48.983 4a58 Delete type=0 #970
+2023/11/27-17:27:48.984 4a58 Delete type=3 #969
+2023/11/27-17:28:13.760 2d58 Level-0 table #975: started
+2023/11/27-17:28:13.760 2d58 Level-0 table #975: 0 bytes OK
+2023/11/27-17:28:13.764 2d58 Delete type=0 #973
+2023/11/27-17:28:13.764 2d58 Manual compaction at level-0 from '!items!4eVF75oaMjbuoI69' @ 72057594037927935 : 1 .. '!items!y39YV2mfGLMmBKIL' @ 0 : 0; will stop at '!items!y39YV2mfGLMmBKIL' @ 2013 : 1
+2023/11/27-17:28:13.764 2d58 Compacting 1@0 + 0@1 files
+2023/11/27-17:28:13.771 2d58 Generated table #976@0: 1 keys, 7758 bytes
+2023/11/27-17:28:13.771 2d58 Compacted 1@0 + 0@1 files => 7758 bytes
+2023/11/27-17:28:13.774 2d58 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/27-17:28:13.774 2d58 Delete type=2 #972
+2023/11/27-17:28:13.774 2d58 Manual compaction at level-0 from '!items!y39YV2mfGLMmBKIL' @ 2013 : 1 .. '!items!y39YV2mfGLMmBKIL' @ 0 : 0; will stop at (end)
+2023/11/27-17:28:13.775 2d58 Manual compaction at level-1 from '!items!4eVF75oaMjbuoI69' @ 72057594037927935 : 1 .. '!items!y39YV2mfGLMmBKIL' @ 0 : 0; will stop at '!items!y39YV2mfGLMmBKIL' @ 2045 : 1
+2023/11/27-17:28:13.775 2d58 Compacting 1@1 + 1@2 files
+2023/11/27-17:28:13.785 2d58 Generated table #977@1: 14 keys, 143228 bytes
+2023/11/27-17:28:13.785 2d58 Compacted 1@1 + 1@2 files => 143228 bytes
+2023/11/27-17:28:13.786 2d58 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/27-17:28:13.787 2d58 Delete type=2 #964
+2023/11/27-17:28:13.788 2d58 Delete type=2 #976
+2023/11/27-17:28:13.788 2d58 Manual compaction at level-1 from '!items!y39YV2mfGLMmBKIL' @ 2045 : 1 .. '!items!y39YV2mfGLMmBKIL' @ 0 : 0; will stop at (end)

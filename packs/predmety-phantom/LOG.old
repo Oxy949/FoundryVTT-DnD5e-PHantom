@@ -1,3 +1,8 @@
-2024/02/09-16:07:22.820 13fc Recovering log #1309
-2024/02/09-16:07:22.823 13fc Delete type=0 #1309
-2024/02/09-16:07:22.823 13fc Delete type=3 #1307
+2024/02/20-17:11:25.266 220c Recovering log #1401
+2024/02/20-17:11:25.269 220c Delete type=0 #1401
+2024/02/20-17:11:25.269 220c Delete type=3 #1399
+2024/02/20-17:14:33.866 4344 Level-0 table #1406: started
+2024/02/20-17:14:33.866 4344 Level-0 table #1406: 0 bytes OK
+2024/02/20-17:14:33.867 4344 Delete type=0 #1404
+2024/02/20-17:14:33.868 4344 Manual compaction at level-0 from '!items!01NfbjsAWSXEut2E' @ 72057594037927935 : 1 .. '!items.effects!zbMH292UkLXbU8T0.Hvf4LFRT1rv8dUij' @ 0 : 0; will stop at (end)
+2024/02/20-17:14:33.868 4344 Manual compaction at level-1 from '!items!01NfbjsAWSXEut2E' @ 72057594037927935 : 1 .. '!items.effects!zbMH292UkLXbU8T0.Hvf4LFRT1rv8dUij' @ 0 : 0; will stop at (end)

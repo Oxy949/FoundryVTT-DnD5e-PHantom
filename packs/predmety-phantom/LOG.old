@@ -1,25 +1,3 @@
-2024/03/11-13:53:10.646 50a8 Recovering log #1739
-2024/03/11-13:53:10.647 50a8 Level-0 table #1743: started
-2024/03/11-13:53:10.649 50a8 Level-0 table #1743: 10346 bytes OK
-2024/03/11-13:53:10.652 50a8 Delete type=0 #1739
-2024/03/11-13:53:10.652 50a8 Delete type=3 #1737
-2024/03/11-14:05:48.825 2820 Level-0 table #1746: started
-2024/03/11-14:05:48.825 2820 Level-0 table #1746: 0 bytes OK
-2024/03/11-14:05:48.826 2820 Delete type=0 #1744
-2024/03/11-14:05:48.826 2820 Manual compaction at level-0 from '!items!01NfbjsAWSXEut2E' @ 72057594037927935 : 1 .. '!items.effects!zbMH292UkLXbU8T0.Hvf4LFRT1rv8dUij' @ 0 : 0; will stop at '!items!xfUkkdU46gAPpTBz' @ 4995 : 1
-2024/03/11-14:05:48.826 2820 Compacting 1@0 + 0@1 files
-2024/03/11-14:05:48.829 2820 Generated table #1747@0: 3 keys, 10346 bytes
-2024/03/11-14:05:48.829 2820 Compacted 1@0 + 0@1 files => 10346 bytes
-2024/03/11-14:05:48.830 2820 compacted to: files[ 0 1 2 0 0 0 0 ]
-2024/03/11-14:05:48.831 2820 Delete type=2 #1743
-2024/03/11-14:05:48.831 2820 Manual compaction at level-0 from '!items!xfUkkdU46gAPpTBz' @ 4995 : 1 .. '!items.effects!zbMH292UkLXbU8T0.Hvf4LFRT1rv8dUij' @ 0 : 0; will stop at (end)
-2024/03/11-14:05:48.831 2820 Manual compaction at level-1 from '!items!01NfbjsAWSXEut2E' @ 72057594037927935 : 1 .. '!items.effects!zbMH292UkLXbU8T0.Hvf4LFRT1rv8dUij' @ 0 : 0; will stop at '!items!xfUkkdU46gAPpTBz' @ 4995 : 1
-2024/03/11-14:05:48.831 2820 Compacting 1@1 + 2@2 files
-2024/03/11-14:05:48.872 2820 Generated table #1748@1: 1152 keys, 2122768 bytes
-2024/03/11-14:05:48.905 2820 Generated table #1749@1: 1290 keys, 1691777 bytes
-2024/03/11-14:05:48.905 2820 Compacted 1@1 + 2@2 files => 3814545 bytes
-2024/03/11-14:05:48.905 2820 compacted to: files[ 0 0 2 0 0 0 0 ]
-2024/03/11-14:05:48.905 2820 Delete type=2 #1740
-2024/03/11-14:05:48.906 2820 Delete type=2 #1741
-2024/03/11-14:05:48.906 2820 Delete type=2 #1747
-2024/03/11-14:05:48.912 2820 Manual compaction at level-1 from '!items!xfUkkdU46gAPpTBz' @ 4995 : 1 .. '!items.effects!zbMH292UkLXbU8T0.Hvf4LFRT1rv8dUij' @ 0 : 0; will stop at (end)
+2024/04/03-21:06:55.338 4594 Recovering log #1953
+2024/04/03-21:06:55.340 4594 Delete type=0 #1953
+2024/04/03-21:06:55.340 4594 Delete type=3 #1952

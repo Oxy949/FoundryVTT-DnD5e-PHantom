@@ -1,3 +1,8 @@
-2024/04/03-21:06:55.870 45dc Recovering log #1871
-2024/04/03-21:06:55.872 45dc Delete type=0 #1871
-2024/04/03-21:06:55.873 45dc Delete type=3 #1870
+2024/05/02-17:15:52.032 888 Recovering log #2098
+2024/05/02-17:15:52.035 888 Delete type=0 #2098
+2024/05/02-17:15:52.035 888 Delete type=3 #2096
+2024/05/02-17:31:33.727 fec Level-0 table #2103: started
+2024/05/02-17:31:33.727 fec Level-0 table #2103: 0 bytes OK
+2024/05/02-17:31:33.728 fec Delete type=0 #2101
+2024/05/02-17:31:33.730 fec Manual compaction at level-0 from '!tables!20wfAlumWM1X49SP' @ 72057594037927935 : 1 .. '!tables.results!zCJHzV0Tt6hVtwen.q5v9GIFCUELDFe6W' @ 0 : 0; will stop at (end)
+2024/05/02-17:31:33.730 fec Manual compaction at level-1 from '!tables!20wfAlumWM1X49SP' @ 72057594037927935 : 1 .. '!tables.results!zCJHzV0Tt6hVtwen.q5v9GIFCUELDFe6W' @ 0 : 0; will stop at (end)

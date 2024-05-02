@@ -1,3 +1,35 @@
-2024/04/03-21:06:55.548 3da8 Recovering log #2142
-2024/04/03-21:06:55.550 3da8 Delete type=0 #2142
-2024/04/03-21:06:55.550 3da8 Delete type=3 #2141
+2024/05/02-17:15:51.879 45c Recovering log #2391
+2024/05/02-17:15:51.882 45c Delete type=0 #2391
+2024/05/02-17:15:51.882 45c Delete type=3 #2389
+2024/05/02-17:31:33.244 fec Level-0 table #2396: started
+2024/05/02-17:31:33.256 fec Level-0 table #2396: 711497 bytes OK
+2024/05/02-17:31:33.257 fec Delete type=0 #2394
+2024/05/02-17:31:33.270 fec Manual compaction at level-0 from '!actors!01w5AmMX4VLY5QAO' @ 72057594037927935 : 1 .. '!actors.items.effects!zL7UHyI8zBb7wW2P.Y2nEoRCdbvit1WcJ.cfwMU7LuOJ619Lny' @ 0 : 0; will stop at (end)
+2024/05/02-17:31:33.271 fec Manual compaction at level-1 from '!actors!01w5AmMX4VLY5QAO' @ 72057594037927935 : 1 .. '!actors.items.effects!zL7UHyI8zBb7wW2P.Y2nEoRCdbvit1WcJ.cfwMU7LuOJ619Lny' @ 0 : 0; will stop at '!actors.items.effects!yYO59aYTDmHUsflt.yFoGstHYtGQgQz2h.zLcKkpM8YADpqOBu' @ 24060 : 1
+2024/05/02-17:31:33.271 fec Compacting 1@1 + 12@2 files
+2024/05/02-17:31:33.309 fec Generated table #2397@1: 474 keys, 2116970 bytes
+2024/05/02-17:31:33.345 fec Generated table #2398@1: 484 keys, 2118078 bytes
+2024/05/02-17:31:33.383 fec Generated table #2399@1: 914 keys, 2119996 bytes
+2024/05/02-17:31:33.432 fec Generated table #2400@1: 1743 keys, 2127188 bytes
+2024/05/02-17:31:33.473 fec Generated table #2401@1: 1836 keys, 2128760 bytes
+2024/05/02-17:31:33.514 fec Generated table #2402@1: 1856 keys, 2128768 bytes
+2024/05/02-17:31:33.559 fec Generated table #2403@1: 1844 keys, 2128550 bytes
+2024/05/02-17:31:33.598 fec Generated table #2404@1: 1816 keys, 2129174 bytes
+2024/05/02-17:31:33.642 fec Generated table #2405@1: 1769 keys, 2127683 bytes
+2024/05/02-17:31:33.721 fec Generated table #2406@1: 753 keys, 789121 bytes
+2024/05/02-17:31:33.721 fec Compacted 1@1 + 12@2 files => 19914288 bytes
+2024/05/02-17:31:33.722 fec compacted to: files[ 0 0 10 0 0 0 0 ]
+2024/05/02-17:31:33.722 fec Delete type=2 #2052
+2024/05/02-17:31:33.723 fec Delete type=2 #2100
+2024/05/02-17:31:33.723 fec Delete type=2 #2101
+2024/05/02-17:31:33.723 fec Delete type=2 #2159
+2024/05/02-17:31:33.723 fec Delete type=2 #2160
+2024/05/02-17:31:33.723 fec Delete type=2 #2368
+2024/05/02-17:31:33.724 fec Delete type=2 #2369
+2024/05/02-17:31:33.724 fec Delete type=2 #2370
+2024/05/02-17:31:33.724 fec Delete type=2 #2371
+2024/05/02-17:31:33.725 fec Delete type=2 #2380
+2024/05/02-17:31:33.725 fec Delete type=2 #2381
+2024/05/02-17:31:33.725 fec Delete type=2 #2382
+2024/05/02-17:31:33.725 fec Delete type=2 #2396
+2024/05/02-17:31:33.730 fec Manual compaction at level-1 from '!actors.items.effects!yYO59aYTDmHUsflt.yFoGstHYtGQgQz2h.zLcKkpM8YADpqOBu' @ 24060 : 1 .. '!actors.items.effects!zL7UHyI8zBb7wW2P.Y2nEoRCdbvit1WcJ.cfwMU7LuOJ619Lny' @ 0 : 0; will stop at (end)

@@ -1,17 +1,3 @@
-2024/05/02-17:15:51.772 2b7c Recovering log #2191
-2024/05/02-17:15:51.774 2b7c Delete type=0 #2191
-2024/05/02-17:15:51.774 2b7c Delete type=3 #2189
-2024/05/02-17:31:33.128 fec Level-0 table #2196: started
-2024/05/02-17:31:33.136 fec Level-0 table #2196: 334715 bytes OK
-2024/05/02-17:31:33.138 fec Delete type=0 #2194
-2024/05/02-17:31:33.138 fec Manual compaction at level-0 from '!items!01NfbjsAWSXEut2E' @ 72057594037927935 : 1 .. '!items.effects!zbMH292UkLXbU8T0.Hvf4LFRT1rv8dUij' @ 0 : 0; will stop at (end)
-2024/05/02-17:31:33.158 fec Manual compaction at level-1 from '!items!01NfbjsAWSXEut2E' @ 72057594037927935 : 1 .. '!items.effects!zbMH292UkLXbU8T0.Hvf4LFRT1rv8dUij' @ 0 : 0; will stop at '!items.effects!xu0zgGTOO40IJf1d.jt2MVJJURahTKvY5' @ 5200 : 1
-2024/05/02-17:31:33.159 fec Compacting 1@1 + 2@2 files
-2024/05/02-17:31:33.196 fec Generated table #2197@1: 1140 keys, 2122937 bytes
-2024/05/02-17:31:33.238 fec Generated table #2198@1: 1520 keys, 2071056 bytes
-2024/05/02-17:31:33.238 fec Compacted 1@1 + 2@2 files => 4193993 bytes
-2024/05/02-17:31:33.239 fec compacted to: files[ 0 0 2 0 0 0 0 ]
-2024/05/02-17:31:33.239 fec Delete type=2 #2073
-2024/05/02-17:31:33.239 fec Delete type=2 #2074
-2024/05/02-17:31:33.239 fec Delete type=2 #2196
-2024/05/02-17:31:33.242 fec Manual compaction at level-1 from '!items.effects!xu0zgGTOO40IJf1d.jt2MVJJURahTKvY5' @ 5200 : 1 .. '!items.effects!zbMH292UkLXbU8T0.Hvf4LFRT1rv8dUij' @ 0 : 0; will stop at (end)
+2024/07/16-23:18:50.038 3b60 Recovering log #2520
+2024/07/16-23:18:50.040 3b60 Delete type=0 #2520
+2024/07/16-23:18:50.040 3b60 Delete type=3 #2519

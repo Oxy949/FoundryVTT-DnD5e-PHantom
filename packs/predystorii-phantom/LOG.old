@@ -1,8 +1,3 @@
-2024/05/02-17:15:51.870 888 Recovering log #2101
-2024/05/02-17:15:51.872 888 Delete type=0 #2101
-2024/05/02-17:15:51.873 888 Delete type=3 #2099
-2024/05/02-17:31:33.726 fec Level-0 table #2106: started
-2024/05/02-17:31:33.726 fec Level-0 table #2106: 0 bytes OK
-2024/05/02-17:31:33.727 fec Delete type=0 #2104
-2024/05/02-17:31:33.730 fec Manual compaction at level-0 from '!items!1AmS2fO827EztZ0f' @ 72057594037927935 : 1 .. '!items!zZa0kuQ4ocWTR2FO' @ 0 : 0; will stop at (end)
-2024/05/02-17:31:33.730 fec Manual compaction at level-1 from '!items!1AmS2fO827EztZ0f' @ 72057594037927935 : 1 .. '!items!zZa0kuQ4ocWTR2FO' @ 0 : 0; will stop at (end)
+2024/07/16-23:18:50.377 3838 Recovering log #2409
+2024/07/16-23:18:50.379 3838 Delete type=0 #2409
+2024/07/16-23:18:50.379 3838 Delete type=3 #2408

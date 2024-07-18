@@ -1,15 +1,3 @@
-2024/05/02-17:15:51.807 45c Recovering log #2194
-2024/05/02-17:15:51.810 45c Delete type=0 #2194
-2024/05/02-17:15:51.810 45c Delete type=3 #2192
-2024/05/02-17:31:33.119 fec Level-0 table #2199: started
-2024/05/02-17:31:33.121 fec Level-0 table #2199: 5695 bytes OK
-2024/05/02-17:31:33.122 fec Delete type=0 #2197
-2024/05/02-17:31:33.138 fec Manual compaction at level-0 from '!items!00WNpBEeMxgNUcqF' @ 72057594037927935 : 1 .. '!items.effects!hEJWwUWWlm4CjQ0P.potjmpJPeUA1U4oe' @ 0 : 0; will stop at (end)
-2024/05/02-17:31:33.138 fec Manual compaction at level-1 from '!items!00WNpBEeMxgNUcqF' @ 72057594037927935 : 1 .. '!items.effects!hEJWwUWWlm4CjQ0P.potjmpJPeUA1U4oe' @ 0 : 0; will stop at '!items!qfUQlHf0KUCGi0Gz' @ 3112 : 1
-2024/05/02-17:31:33.138 fec Compacting 1@1 + 1@2 files
-2024/05/02-17:31:33.157 fec Generated table #2200@1: 519 keys, 925388 bytes
-2024/05/02-17:31:33.157 fec Compacted 1@1 + 1@2 files => 925388 bytes
-2024/05/02-17:31:33.158 fec compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/05/02-17:31:33.158 fec Delete type=2 #2185
-2024/05/02-17:31:33.158 fec Delete type=2 #2199
-2024/05/02-17:31:33.240 fec Manual compaction at level-1 from '!items!qfUQlHf0KUCGi0Gz' @ 3112 : 1 .. '!items.effects!hEJWwUWWlm4CjQ0P.potjmpJPeUA1U4oe' @ 0 : 0; will stop at (end)
+2024/07/16-23:18:50.160 3838 Recovering log #2522
+2024/07/16-23:18:50.162 3838 Delete type=0 #2522
+2024/07/16-23:18:50.162 3838 Delete type=3 #2521
